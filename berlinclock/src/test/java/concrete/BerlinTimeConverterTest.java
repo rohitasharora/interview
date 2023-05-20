@@ -6,6 +6,8 @@ import org.junit.Test;
 
 public class BerlinTimeConverterTest {
 
+
+
 	@Test
 	public void testMidNight() {
 		String output = 
